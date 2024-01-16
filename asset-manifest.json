@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/movies-app/static/css/main.0e1fd7cf.css",
-    "main.js": "/movies-app/static/js/main.67432b32.js",
-    "static/js/787.a53b3eb0.chunk.js": "/movies-app/static/js/787.a53b3eb0.chunk.js",
-    "static/media/logo.svg": "/movies-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/movies-app/index.html",
-    "main.0e1fd7cf.css.map": "/movies-app/static/css/main.0e1fd7cf.css.map",
-    "main.67432b32.js.map": "/movies-app/static/js/main.67432b32.js.map",
-    "787.a53b3eb0.chunk.js.map": "/movies-app/static/js/787.a53b3eb0.chunk.js.map"
+    "main.css": "/pickuser/static/css/main.0e1fd7cf.css",
+    "main.js": "/pickuser/static/js/main.1ce91806.js",
+    "static/js/787.a53b3eb0.chunk.js": "/pickuser/static/js/787.a53b3eb0.chunk.js",
+    "static/media/logo.svg": "/pickuser/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pickuser/index.html",
+    "main.0e1fd7cf.css.map": "/pickuser/static/css/main.0e1fd7cf.css.map",
+    "main.1ce91806.js.map": "/pickuser/static/js/main.1ce91806.js.map",
+    "787.a53b3eb0.chunk.js.map": "/pickuser/static/js/787.a53b3eb0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e1fd7cf.css",
-    "static/js/main.67432b32.js"
+    "static/js/main.1ce91806.js"
   ]
 }
