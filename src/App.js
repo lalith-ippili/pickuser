@@ -4,9 +4,9 @@ import PickUser from './PickUser/PickUser';
 
 function App() {
   return (
-    <div className="App">
+   
      <PickUser/>
-    </div>
+    
   );
 }
 
