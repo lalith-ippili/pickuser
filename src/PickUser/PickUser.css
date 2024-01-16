@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+.total-pickuser-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.total-pickuser-div h1 {
+  padding: 10px;
+  font-size: 30px;
+  color: rgb(66, 10, 54);
+  font-weight: bold;
+}
+
+.Searchbaradd-div {
+  width: 50%;
+  border-bottom: 2px solid #000;
+  display: flex;
+  flex-wrap: wrap;
+}
+.Searchbaradd-div form input {
+  outline: none;
+  border: none;
+  padding: 10px;
+}
+.each-user-data-div {
+  display: flex;
+  gap: 2px;
+  flex-wrap: wrap;
+}
+
+.each-user-data {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #8d8d8d;
+  border-radius: 15px;
+  padding: 5px;
+  gap: 5px;
+  cursor: pointer;
+}
+
+.pickuser-images {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+}
+
+.users-data-div {
+  max-height: 40vh;
+  background-color: rgb(255, 255, 255);
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  overflow-y: scroll;
+}
+.filter-users {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  gap: 5px;
+  cursor: pointer;
+}
+.filter-users:hover {
+  background-color: #bbb9b9;
+}
+.filter-user-name {
+  font-weight: 700;
+}
+
+.delete-user {
+  display: none;
+}
